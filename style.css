@@ -1,44 +1,21 @@
-
+/* Basic layout */
 body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f0f4f8;
-  color: #333;
-  padding: 2rem;
-}
-
-#container {
+  padding: 20px;
   max-width: 900px;
-  margin: 0 auto;
-}
-
-#header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1rem;
+  margin: auto;
 }
 
 #monthDisplay {
-  font-size: 1.8rem;
-  font-weight: bold;
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 10px;
 }
 
-#btn button {
-  margin-left: 0.5rem;
-  padding: 0.5rem 1rem;
-  background-color: #4f46e5;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
 }
-
-#btn button:hover {
-  background-color: #3730a3;
-}
-
-/* Calendar Grid*/
 
 #weekDays {
   display: grid;
@@ -48,34 +25,27 @@ body {
   text-align: center;
 }
 
-#calendar {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 0.25rem;
+.day,
+.empty {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
 }
 
-/* day cells */
 .day {
-  background-color: white;
-  border: 1px solid #e2e8f0;
-  height: 100px;
-  padding: 0.5rem;
-  position: relative;
+  background-color: #f0f0f0;
   cursor: pointer;
-  transition: background-color 0.2s ease;
 }
 
-.day:hover {
-  background-color: #f3f4f6;
+.todays {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
 }
 
-#currentDay {
-  background-color: #dbeafe;
-  border: 2px solid #3b82f6;
-}
-
-.padding {
-  background-color: #f9fafb;
-  border: 1px solid #e5e7eb;
-  cursor: default;
+select, button {
+  padding: 4px 8px;
+  margin: 0 5px;
 }
