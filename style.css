@@ -1,0 +1,56 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+  padding: 2rem;
+}
+
+#container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+#monthDisplay {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+#btn button {
+  margin-left: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#btn button:hover {
+  background-color: #3730a3;
+}
+
+/* Calendar Grid*/
+
+#weekDays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.25rem;
+}
+
