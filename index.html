@@ -1,9 +1,41 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <script type="module" src="common.mjs"></script>
-        <script type="module" src="web.mjs"></script>
-    </head>
-    <body>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <div id="monthDisplay"></div>
+
+            <label for="monthSelector">Select Month:</label>
+            <select id="monthSelector"></select>
+
+            <label for="yearSelector">Select Year:</label>
+            <select id="yearSelector"></select>
+
+            <div id="btn">
+                <button id="backButton">Back</button>
+                <button id="nextButton">Next</button>
+            </div>
+        </div>
+
+        <div id="weekDays">
+            <div>Monday</div>
+            <div>Tuesday</div>
+            <div>Wednesday</div>
+            <div>Thursday</div>
+            <div>Friday</div>
+            <div>Saturday</div>
+            <div>Sunday</div>
+        </div>
+        </div>
+        <div id="calendar"></div>
+    </div>
+
+    <script src="web.mjs"></script>
+</body>
 </html>
