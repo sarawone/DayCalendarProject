@@ -49,3 +49,9 @@ select, button {
   padding: 4px 8px;
   margin: 0 5px;
 }
+
+.special-day {
+  font-size: 0.7em;
+  color: darkblue;
+  margin-top: 4px;
+}
