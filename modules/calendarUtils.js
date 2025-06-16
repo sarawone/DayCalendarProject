@@ -1,5 +1,5 @@
 import { calendar, monthDisplay, monthSelector, yearSelector } from './domElements.js';
-
+import { getSpecialDaysForMonth } from './specialDays.js';
 const months = [
   "January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"
@@ -26,13 +26,15 @@ export function initSelectors(currentMonth, currentYear) {
   yearSelector.value = currentYear;
 }
 
-export function renderCalendar(month, year) {
+export async function renderCalendar(month, year) {
   calendar.innerHTML = '';
   monthDisplay.textContent = `${months[month]} ${year}`;
 
   const firstDay = new Date(year, month, 1);
   const startDay = (firstDay.getDay() + 6) % 7; // converting to monday
   const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+  const specialDays =  await getSpecialDaysForMonth(month,year);
 
   for (let i = 0; i < startDay; i++) {
     const emptyCell = document.createElement('div');
@@ -52,6 +54,15 @@ export function renderCalendar(month, year) {
       year === today.getFullYear()
     ) {
       dayCell.classList.add('todays');
+    }
+
+    const match = specialDays.find(special => special.date === day);
+    if (match) {
+      const label = document.createElement('div');
+      label.classList.add('special-day');
+      label.textContent = match.name;
+      dayCell.appendChild(document.createElement('br'));
+      dayCell.appendChild(label);
     }
 
     calendar.appendChild(dayCell);
