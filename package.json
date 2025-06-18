@@ -1,0 +1,28 @@
+{
+  "name": "daycalendarproject",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Showing the memorable day to user",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarawone/DayCalendarProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarawone/DayCalendarProject/issues"
+  },
+  "homepage": "https://github.com/sarawone/DayCalendarProject#readme",
+  "dependencies": {
+    "ics": "^3.8.1",
+    "node-fetch": "^3.3.2"
+  }
+}
