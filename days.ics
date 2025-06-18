@@ -1,0 +1,579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:VKVkLh08tyQBrPP3BkGbe
+SUMMARY:Ada Lovelace Day (2020)
+DTSTAMP:20250618T141047Z
+DTSTART:20201013T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:PayEO6lYwhWVd_9kpxx4F
+SUMMARY:International Binturong Day (2020)
+DTSTAMP:20250618T141047Z
+DTSTART:20200509T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:OgfQnPK3X3Dfg8XWOIb2Y
+SUMMARY:International Vulture Awareness Day (2020)
+DTSTAMP:20250618T141047Z
+DTSTART:20200905T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:gBj3VYRVguoYIYujZdpiC
+SUMMARY:International Red Panda Day (2020)
+DTSTAMP:20250618T141047Z
+DTSTART:20200919T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:E4Vh9AL5erB9PirgmbK9U
+SUMMARY:World Lemur Day (2020)
+DTSTAMP:20250618T141047Z
+DTSTART:20201030T100000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:pTs78q1c1S53-YaV1AHNu
+SUMMARY:Ada Lovelace Day (2021)
+DTSTAMP:20250618T141047Z
+DTSTART:20211012T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:JM5Bhw0Q2jFpNmevX2N8u
+SUMMARY:International Binturong Day (2021)
+DTSTAMP:20250618T141047Z
+DTSTART:20210508T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:HXW77AlKZ93zsIfWlaoLx
+SUMMARY:International Vulture Awareness Day (2021)
+DTSTAMP:20250618T141047Z
+DTSTART:20210904T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:SAdcnZHF6EINTpMlQArTd
+SUMMARY:International Red Panda Day (2021)
+DTSTAMP:20250618T141047Z
+DTSTART:20210918T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:rhycwotig269q7DacUXkp
+SUMMARY:World Lemur Day (2021)
+DTSTAMP:20250618T141047Z
+DTSTART:20211029T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:b9VpBaPMbW5AJP1iNITDS
+SUMMARY:Ada Lovelace Day (2022)
+DTSTAMP:20250618T141047Z
+DTSTART:20221011T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:Eqeh9yO712j0BLFfnufD2
+SUMMARY:International Binturong Day (2022)
+DTSTAMP:20250618T141047Z
+DTSTART:20220514T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:rWytDjp76GT8xm06yeT4j
+SUMMARY:International Vulture Awareness Day (2022)
+DTSTAMP:20250618T141047Z
+DTSTART:20220903T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:yM4a_KAI61zdmPbbjUTBM
+SUMMARY:International Red Panda Day (2022)
+DTSTAMP:20250618T141047Z
+DTSTART:20220917T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:whN1N6kMLvMGVgAEeaMA4
+SUMMARY:World Lemur Day (2022)
+DTSTAMP:20250618T141047Z
+DTSTART:20221028T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:CS5HjMtPZSfqxHUsIhqm2
+SUMMARY:Ada Lovelace Day (2023)
+DTSTAMP:20250618T141047Z
+DTSTART:20231010T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:jlPWVY_1WXe63ChQrS7CN
+SUMMARY:International Binturong Day (2023)
+DTSTAMP:20250618T141047Z
+DTSTART:20230513T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:uQ2amKummxtABXoD9yQ7o
+SUMMARY:International Vulture Awareness Day (2023)
+DTSTAMP:20250618T141047Z
+DTSTART:20230902T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:-RJigyFwMajFwelCKUsoq
+SUMMARY:International Red Panda Day (2023)
+DTSTAMP:20250618T141047Z
+DTSTART:20230916T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:AE179XGfAeXEymAXyKgBl
+SUMMARY:World Lemur Day (2023)
+DTSTAMP:20250618T141047Z
+DTSTART:20231027T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:onbscSfZWVRkNkphtyYXD
+SUMMARY:Ada Lovelace Day (2024)
+DTSTAMP:20250618T141047Z
+DTSTART:20241008T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:zjvF1iUl5w4P90j5z7Vui
+SUMMARY:International Binturong Day (2024)
+DTSTAMP:20250618T141047Z
+DTSTART:20240511T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:sZ1adTb2aOCk1sLX8w4_l
+SUMMARY:International Vulture Awareness Day (2024)
+DTSTAMP:20250618T141047Z
+DTSTART:20240907T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:r0QHhokH-inEmwfTAHm48
+SUMMARY:International Red Panda Day (2024)
+DTSTAMP:20250618T141047Z
+DTSTART:20240921T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:lgRlWetiC1hgTyunQilha
+SUMMARY:World Lemur Day (2024)
+DTSTAMP:20250618T141047Z
+DTSTART:20241025T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:4pKGsP90Rkc75uaqSoZon
+SUMMARY:Ada Lovelace Day (2025)
+DTSTAMP:20250618T141047Z
+DTSTART:20251014T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:llSur_4Mm_D81Y87L7sgL
+SUMMARY:International Binturong Day (2025)
+DTSTAMP:20250618T141047Z
+DTSTART:20250510T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:CtYGm5HdHDFs8OrPQq2cz
+SUMMARY:International Vulture Awareness Day (2025)
+DTSTAMP:20250618T141047Z
+DTSTART:20250906T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:HeoLF1h-l2AmLV3DzITmQ
+SUMMARY:International Red Panda Day (2025)
+DTSTAMP:20250618T141047Z
+DTSTART:20250920T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:-h_nLjh-CYa3PhXBJIju8
+SUMMARY:World Lemur Day (2025)
+DTSTAMP:20250618T141047Z
+DTSTART:20251031T100000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:kfKpfdT3U8ynhuhSSD8Rn
+SUMMARY:Ada Lovelace Day (2026)
+DTSTAMP:20250618T141047Z
+DTSTART:20261013T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:pXgYGj8HF330Y4d0Q_--c
+SUMMARY:International Binturong Day (2026)
+DTSTAMP:20250618T141047Z
+DTSTART:20260509T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:UdSw3SWXa_SVB38kqppUo
+SUMMARY:International Vulture Awareness Day (2026)
+DTSTAMP:20250618T141047Z
+DTSTART:20260905T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:6c95HJR8DoJxVrIan6110
+SUMMARY:International Red Panda Day (2026)
+DTSTAMP:20250618T141047Z
+DTSTART:20260919T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:wz8BwJNKCFOSBSGeUUlfm
+SUMMARY:World Lemur Day (2026)
+DTSTAMP:20250618T141047Z
+DTSTART:20261030T100000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:LH1N3pfMLLdiDJiFV1rVT
+SUMMARY:Ada Lovelace Day (2027)
+DTSTAMP:20250618T141047Z
+DTSTART:20271012T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:hkO1vZoKuUOEsDWn-11Sf
+SUMMARY:International Binturong Day (2027)
+DTSTAMP:20250618T141047Z
+DTSTART:20270508T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:3B12lOVn5PGByedeUnTIE
+SUMMARY:International Vulture Awareness Day (2027)
+DTSTAMP:20250618T141047Z
+DTSTART:20270904T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:PlFkf7P2SoF5Kgy5gRkLY
+SUMMARY:International Red Panda Day (2027)
+DTSTAMP:20250618T141047Z
+DTSTART:20270918T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:EwxNVDfZkEije5ISPmLdE
+SUMMARY:World Lemur Day (2027)
+DTSTAMP:20250618T141047Z
+DTSTART:20271029T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:P8eZB8jtrHEL0QoCDaen9
+SUMMARY:Ada Lovelace Day (2028)
+DTSTAMP:20250618T141047Z
+DTSTART:20281010T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:ozlB2ptVjulspWtAYmM_E
+SUMMARY:International Binturong Day (2028)
+DTSTAMP:20250618T141047Z
+DTSTART:20280513T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:RKCt-9S4HlPd7XJWLDQ06
+SUMMARY:International Vulture Awareness Day (2028)
+DTSTAMP:20250618T141047Z
+DTSTART:20280902T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:soEVzcD4rN21amMpOGTWo
+SUMMARY:International Red Panda Day (2028)
+DTSTAMP:20250618T141047Z
+DTSTART:20280916T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:y59oDWDm0KkMnbNBnzti_
+SUMMARY:World Lemur Day (2028)
+DTSTAMP:20250618T141047Z
+DTSTART:20281027T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:mpFZX49vu5SRljz4LgwKA
+SUMMARY:Ada Lovelace Day (2029)
+DTSTAMP:20250618T141047Z
+DTSTART:20291009T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:8g_hdFteAVf-9R2yI24Gp
+SUMMARY:International Binturong Day (2029)
+DTSTAMP:20250618T141047Z
+DTSTART:20290512T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:FBzhJ1qwNVm7-Ibbgrvy_
+SUMMARY:International Vulture Awareness Day (2029)
+DTSTAMP:20250618T141047Z
+DTSTART:20290901T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:vHqWxyZ6eZb3I5IR1R6FJ
+SUMMARY:International Red Panda Day (2029)
+DTSTAMP:20250618T141047Z
+DTSTART:20290915T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:WWknh8eYpy-TMGku2o9Al
+SUMMARY:World Lemur Day (2029)
+DTSTAMP:20250618T141047Z
+DTSTART:20291026T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:NNYzgRFThH1F3QofjaA4i
+SUMMARY:Ada Lovelace Day (2030)
+DTSTAMP:20250618T141047Z
+DTSTART:20301008T090000Z
+DESCRIPTION:Ada Lovelace was a mathematician who made contributions to the 
+	field of computing in its very early days. On Ada Lovelace Day we celebrat
+	e and raise awareness of the contributions of women to STEM fields.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:ZlJ4D3DQYKwyf8DIjHaN6
+SUMMARY:International Binturong Day (2030)
+DTSTAMP:20250618T141047Z
+DTSTART:20300511T090000Z
+DESCRIPTION:Binturongs are really cute\, and smell of popcorn.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:mo8mg3HQxDyd0c_3j0W07
+SUMMARY:International Vulture Awareness Day (2030)
+DTSTAMP:20250618T141047Z
+DTSTART:20300907T090000Z
+DESCRIPTION:Vultures are a much maligned species. They provide vital servic
+	es to the ecosystem\, and without them the world would be a much worse pla
+	ce.
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:6bSOKnJ1wRL7cmu35pYqX
+SUMMARY:International Red Panda Day (2030)
+DTSTAMP:20250618T141047Z
+DTSTART:20300921T090000Z
+DESCRIPTION:Red pandas are an endangered species. They happen to be really 
+	cute\, but that's not the only reason we should help them to thrive!
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:XxGXhtqb8Hp1iFjg-o5vk
+SUMMARY:World Lemur Day (2030)
+DTSTAMP:20250618T141047Z
+DTSTART:20301025T090000Z
+DESCRIPTION:Lemurs are excellent. Did you know that the most likely scienti
+	fic theory as to how they got to Madagascar is that they rafted there from
+	 mainland Africa?
+STATUS:CONFIRMED
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR
