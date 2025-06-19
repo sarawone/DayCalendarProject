@@ -28,13 +28,13 @@ export async function getSpecialDaysForMonth(month, year) {
       }
   
       let dateNum;
-      if (dayInfo.occurence === "last") {
+      if (dayInfo.occurrence === "last") {
         dateNum = matches[matches.length - 1];
-      } else if (dayInfo.occurence === "first") {
+      } else if (dayInfo.occurrence === "first") {
         dateNum = matches[0];
-      } else if (dayInfo.occurence === "second") {
+      } else if (dayInfo.occurrence === "second") {
         dateNum = matches[1];
-      } else if (dayInfo.occurence === "third") {
+      } else if (dayInfo.occurrence === "third") {
         dateNum = matches[2];
       }
   
