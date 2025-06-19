@@ -7,16 +7,7 @@ You can also export these dates to `.ics` format for use in calendar apps like G
 
 ---
 
-## 📁 Project Structure
 
-DayCalendarProject/
-├── days.json # Source data with special day rules
-├── generate-ics.js # Script to generate .ics file
-├── modules/
-│ └── specialDays.js # Logic to find actual date of each special day
-├── specialDays.test.js # Unit test file using Jest
-├── .babelrc # Babel config to support ES Modules
-└── package.json # NPM metadata and scripts
 
 
 
