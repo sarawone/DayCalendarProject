@@ -6,7 +6,8 @@ const months = [
 ];
 
 
-export function initSelectors(currentMonth, currentYear) {
+// calendarUtils.js
+export function initSelectors(currentMonth, currentYear, monthSelector, yearSelector) {
   for (let m = 0; m < 12; m++) {
     const option = document.createElement('option');
     option.value = m;
@@ -25,6 +26,7 @@ export function initSelectors(currentMonth, currentYear) {
   monthSelector.value = currentMonth;
   yearSelector.value = currentYear;
 }
+
 
 export async function renderCalendar(month, year) {
   calendar.innerHTML = '';
