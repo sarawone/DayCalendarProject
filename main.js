@@ -7,6 +7,10 @@ const dateState = {
   currentYear: currentDate.getFullYear()
 };
 
-initSelectors(dateState.currentMonth, dateState.currentYear);
+// Pass the actual select elements from the DOM
+const monthSelector = document.getElementById('monthSelector');
+const yearSelector = document.getElementById('yearSelector');
+
+initSelectors(dateState.currentMonth, dateState.currentYear, monthSelector, yearSelector);
 renderCalendar(dateState.currentMonth, dateState.currentYear);
 setupEventHandlers(dateState);
