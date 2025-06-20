@@ -37,12 +37,12 @@ describe('initSelectors', () => {
 
     // Check year selector options count and values
     const thisYear = new Date().getFullYear();
-    const expectedYearCount = thisYear + 50 - (thisYear - 100) + 1;
+    const expectedYearCount = thisYear + 300 - (thisYear - 300) + 1;
     expect(yearSelector.options.length).toBe(expectedYearCount);
 
     // Check first and last year option values and text
-    expect(yearSelector.options[0].value).toBe((thisYear - 100).toString());
-    expect(yearSelector.options[yearSelector.options.length - 1].value).toBe((thisYear + 50).toString());
+    expect(yearSelector.options[0].value).toBe((thisYear - 300).toString());
+    expect(yearSelector.options[yearSelector.options.length - 1].value).toBe((thisYear + 300).toString());
 
     // Check that the year selector's value is set correctly
     expect(yearSelector.value).toBe(currentYear.toString());

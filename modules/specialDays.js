@@ -16,7 +16,8 @@ export async function getSpecialDaysForMonth(month, year) {
       if (dayInfo.monthName !== monthNames[month]) continue;
   
       const targetWeekday = weekdays.indexOf(dayInfo.dayName);
-      const totalDays = new Date(year, month + 1, 0).getDate();
+
+      const totalDays = new Date(year, month + 1, 0).getDate(); //in a month
   
       let matches = [];
   

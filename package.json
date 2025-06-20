@@ -23,6 +23,7 @@
   "homepage": "https://github.com/sarawone/DayCalendarProject#readme",
   "dependencies": {
     "ics": "^3.8.1",
+    "jsdom": "^26.1.0",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {

@@ -8,15 +8,15 @@ const months = [
 
 // calendarUtils.js
 export function initSelectors(currentMonth, currentYear, monthSelector, yearSelector) {
-  for (let m = 0; m < 12; m++) {
+  for (let m = 0; m < 12; m++) { // month selection
     const option = document.createElement('option');
     option.value = m;
     option.text = months[m];
     monthSelector.appendChild(option);
   }
 
-  const thisYear = new Date().getFullYear();
-  for (let y = thisYear - 100; y <= thisYear + 50; y++) {
+  const thisYear = new Date().getFullYear(); // year selection
+  for (let y = thisYear - 300; y <= thisYear + 300; y++) {
     const option = document.createElement('option');
     option.value = y;
     option.text = y;
@@ -37,13 +37,14 @@ export async function renderCalendar(month, year) {
   const daysInMonth = new Date(year, month + 1, 0).getDate();
 
   const specialDays =  await getSpecialDaysForMonth(month,year);
-
+  
+  //empty days
   for (let i = 0; i < startDay; i++) {
     const emptyCell = document.createElement('div');
     emptyCell.classList.add('empty');
     calendar.appendChild(emptyCell);
   }
-
+  // actual dates
   for (let day = 1; day <= daysInMonth; day++) {
     const dayCell = document.createElement('div');
     dayCell.classList.add('day');
